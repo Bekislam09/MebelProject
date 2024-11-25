@@ -1,0 +1,66 @@
+.img{
+    width: 1920px;
+    height: 356px;
+    top: 139px;
+}
+.service{
+    width: 1,158px;
+    height: 704px;
+    top: 695px;
+    left: 382px;
+    gap: 88px;  
+    margin-top: 200px;
+}
+.cont1{
+    width: Fixed (1,158px)px;
+    height: Hug (225px)px;
+    gap: 42px;
+    display: flex;
+    justify-content: space-evenly; 
+}
+.cont2{
+    width: Fixed (1,158px)px;
+    height: Hug (225px)px;
+    gap: 42px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 150px;
+}
+.service h1{
+    font-family: DM Serif Display;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 31.25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.service p{
+    font-family: Jost;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #4D5053;
+}
+.service button{
+    font-family: Jost;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22.5px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #4D5053;
+    margin-left: 120px;
+}
+.block{
+    width: 358px;
+    height: 225px;
+    gap: 52px;
+}

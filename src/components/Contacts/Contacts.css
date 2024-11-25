@@ -1,0 +1,23 @@
+.container-contacts{
+    width: 800px;
+    height: Hug (374px)px;
+    top: 4517.42px;
+    left: 360px;
+    padding: 80px 315px 80px 315px;
+    gap: 10px;
+    border-radius: 70px ;
+    background: #292F36;
+    color: white;
+    margin-left: 280px;
+    margin-top: 200px;
+    text-align: center;
+}
+.contact-btn{
+    width: Hug (237.14px)px;
+    height: Hug (75px)px;
+    padding: 26px 37px 26px 37px;
+    gap: 10px;
+    border-radius: 18px ;
+    background: #CDA274;
+    color: white;
+}
